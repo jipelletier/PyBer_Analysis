@@ -13,12 +13,12 @@ The project requires the analysis of all the rideshare data from January to earl
 
 ## Results
 ### Pyber Summary DataFrame:
-![Deliverable1.png](PyBer_Analysis/Analysis/Deliverable1.png)
+![Deliverable1.png](Analysis/Deliverable1.png)
 
 Based on the PyBer Summary DataFrame above, heavily populated cities have more drivers and a higher ride count. The Urban cities have 1,500 more rides than the Rural cities and 2,327 more drivers. As a result, there is a higher count of fares in areas where there is a more dense population and the average fare per ride decreases by $10 from a Rural area to an Urban area. The average fare per driver also decreases by around $40. The Suburban areas also conduct 1,000 less rides than Urban areas and have 1,915 less drivers.
 
 ### Total Fare per City Type:
-![PyBer_fare_summary.png](PyBer_Analysis/Analysis/PyBer_fare_summary.png)
+![PyBer_fare_summary.png](Analysis/PyBer_fare_summary.png)
 
 The multiple line plot above details the weekly total fares for each city type. The data shows: 
 - urban cities generally generate between $2,000 to $2,300
