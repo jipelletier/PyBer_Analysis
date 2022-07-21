@@ -28,3 +28,8 @@ The multiple line plot above details the weekly total fares for each city type. 
 By viewing the PyBer data by city type, we see that the average total fare has a similar pattern over various months of the year between January and April with total fares peaking around March.
 
 ## Summary
+Based on the above results, I would recommend to the CEO of PyBer the following three business suggestions in order to address disparity among city types:
+
+1. Focus recruiting efforts on rural and suburban areas to increase amount of drivers in those areas. Given the high average fare per ride of $34.62 and average fare per driver at $55.49 in the Rural areas, it appears that this type of city is underserviced. I recommend increasing drivers in rural and suburban locations as you may be able to provide more rides while still being a profitable on a per driver basis.
+2. Redirecting efforts to increasing the amount of rides in the summertime months. Given the sudden drop in Urban cities after the month of May, it may be worth focusing on advertising rides and analyzing the root cause of the drop to continue to be profitable.
+3. Decreasing the number of drivers in Urban cities could prove to be beneficial. The number of rides to number of drivers shows that they are overstaffed. This is also driving the average fare per ride down. In order to maximize profits, it is recommended to repurpose extra drivers to other company apps such as delivery services.
