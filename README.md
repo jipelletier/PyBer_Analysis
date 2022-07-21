@@ -19,4 +19,12 @@ Based on the PyBer Summary DataFrame above, heavily populated cities have more d
 
 ### Total Fare per City Type:
 ![PyBer_fare_summary.png](PyBer_Analysis/Analysis/PyBer_fare_summary.png)
+
+The multiple line plot above details the weekly total fares for each city type. The data shows: 
+- urban cities generally generate between $2,000 to $2,300
+- suburban cities generally generate $900 to $1,200
+- rural cities generally generate $170 to $287
+
+By viewing the PyBer data by city type, we see that the average total fare has a similar pattern over various months of the year between January and April with total fares peaking around March.
+
 ## Summary
