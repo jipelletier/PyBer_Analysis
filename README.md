@@ -12,7 +12,7 @@ The project requires the analysis of all the rideshare data from January to earl
 - Language: Python 3.6.7
 ## Results
 ### Pyber Summary DataFrame:
-
+![Deliverable1.png](PyBer_Analysis/Analysis/Deliverable1.png)
 ### Total Fare per City Type:
 ![PyBer_fare_summary.png](PyBer_Analysis/Analysis/PyBer_fare_summary.png)
 ## Summary
