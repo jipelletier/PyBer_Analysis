@@ -14,5 +14,5 @@ The project requires the analysis of all the rideshare data from January to earl
 ### Pyber Summary DataFrame:
 
 ### Total Fare per City Type:
-![PyBer_fare_summary.png](Analysis/PyBer_fare_summary.png)
+![PyBer_fare_summary.png](PyBer_Analysis/Analysis/PyBer_fare_summary.png)
 ## Summary
